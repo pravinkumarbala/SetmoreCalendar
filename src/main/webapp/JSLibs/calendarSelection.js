@@ -30,8 +30,8 @@ function fetchAppt(){
 }
 */
 
-var calendarModel = new CalendarsCollection();
+var calendarCollection = new CalendarsCollection();
 new CalendarsView({
 	el: $('#calendar'),
-	collection: calendarModel
+	collection: calendarCollection	
 }).render();
