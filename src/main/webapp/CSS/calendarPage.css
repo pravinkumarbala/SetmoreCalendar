@@ -1,0 +1,48 @@
+body{
+	height: 100%;
+	width: 100%;
+}
+
+.fc-left{
+	padding: 0;
+}
+
+.fc-prev-button{
+	width: 90px;
+}
+.fc-next-button{
+	width: 90px;
+}
+
+.container{
+	margin-left: 40%;
+}
+
+.sidenav{
+	text-align: center;
+	text-decoration: none;
+	font-family: Helvetica,sans-serif;
+	font-size: 20px;
+	height: 153%;
+	width: 100px;
+	position: absolute;
+	z-index: 1;
+	top: 55px;
+	background-color: #343a40;
+	overflow-x: hidden;
+	padding-top: 20px;
+}
+
+.sidenav a{
+	color: #fff;
+	display: block;
+}
+
+.sidenav a:hover{
+	text-decoration: none;
+	color: #f1f1f1;
+}
+
+#calendar{
+	margin-left: 3%;
+}
