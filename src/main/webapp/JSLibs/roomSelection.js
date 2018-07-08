@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
 	/*
 	Setup
 	7d019bd42bWbohpX1aeT_N6rDSgOqkcC7sQy-mI-UMft2
